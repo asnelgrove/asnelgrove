@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Andrew
-- 👀 I’m interested in CSS, JavaScript, React, Node.js, web design skills and concepts and making things look cool 
-- 🌱 I’m currently learning how to use Cloud services to deploy websites and web apps, and how to make animations in React
-- 💞️ I’m looking to collaborate on any project where I have the opportunity to gain experience and knowledge
+- 👀 I’m interested in CSS, JavaScript, React.js, Node.js, web design skills and concepts and making things look cool 
+- 🌱 I’m currently learning how to use Cloud services to deploy websites and web apps, how to make animations in React, and how to develop games in JS
+- 💞️ I’m looking to collaborate on projects that neeed Frontend/UI development or game development.
 - 📫 How to reach me: on LinkedIn www.linkedin.com/in/andrew-snelgrove 
 
 <!---
